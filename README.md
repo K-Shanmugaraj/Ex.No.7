@@ -1,7 +1,8 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-## Date:
-## Register no.
+## Date:26.05.2026
+## Register no: 212223040192
+## Name: Shanmuga Raj.K
 ## Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 ---
@@ -147,7 +148,7 @@ The AI assistant generates a balanced productivity schedule based on user priori
 
 ---
 
-### 🟠 Step 4 — Progress Tracking
+### Step 4 — Progress Tracking
 
 **Prompt:**
 “You are an intelligent productivity tracker. Monitor completed tasks, identify pending activities, and generate a productivity summary at the end of the day with suggestions for improving tomorrow’s schedule.”
@@ -158,7 +159,7 @@ The AI assistant generates a balanced productivity schedule based on user priori
 
 ---
 
-## 📋 Summary Table
+## Summary Table
 
 | Step | Description         | Example Prompt Used           | Primary Output        |
 | ---- | ------------------- | ----------------------------- | --------------------- |
@@ -169,7 +170,7 @@ The AI assistant generates a balanced productivity schedule based on user priori
 
 ---
 
-## 🧾 Sample Productivity Snapshot
+## Sample Productivity Snapshot
 
 | Time     | Activity        | Status    |
 | -------- | --------------- | --------- |
@@ -180,7 +181,7 @@ The AI assistant generates a balanced productivity schedule based on user priori
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This experiment demonstrated how prompt engineering can be used to build a smart productivity assistant capable of organizing schedules, managing priorities, and improving efficiency using large language models.
 
